@@ -39,9 +39,12 @@ __Affliated to A.K.T.U. Lucknow__
 - ECLIPSE , ADOBE AFTER-EFFECTS , ADOBE PHOTOSHOP, BRACKETS , MICROSOFT OFFICE , DEV C++ ,
 PLOTAGON .
 
-##Internships / Trainings
+## Internships / Trainings ##
 
 **DECISION POINT , GURGAON (JUNE 2018 - JULY 2018)**
 - Worked for the user module of an in house project of Decision Point.
 - Worked on SQL queries to analyze business data and logics .
 - Technologies Used – Angular 5 , Node JS , Mongo DB
+
+**CORE JAVA TRAINING (JAN 2018- FEBRUARY 2018)**
+- 2 Months training in Core Java from Ducat , Ghaziabad.
