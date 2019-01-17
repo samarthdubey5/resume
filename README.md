@@ -27,5 +27,10 @@ __Affliated to A.K.T.U. Lucknow__
 ## Technical Skills
  
 **LANGUAGES**
-- C Language , Core JAVA .
+- C Language , Core JAVA .  
 
+**Web technologies**
+- HTML, CSS , JavaScript Basics (Angular JS basics, Node JS basics) .  
+
+**Databases**
+--MySql , MongoDB(Basics) .
