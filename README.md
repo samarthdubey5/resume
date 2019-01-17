@@ -48,3 +48,17 @@ PLOTAGON .
 
 **CORE JAVA TRAINING (JAN 2018- FEBRUARY 2018)**
 - 2 Months training in Core Java from Ducat , Ghaziabad.
+
+## Co-Curricular/Extra Curricular Activities ##
+
+- Completed Online Algorithms course from Princeton University through COURSERA Inc.
+- Attended a 1 day workshop on Web Development based on Angular JS and Bootstrap .
+- Attended a workshop based on Digital Marketing and its tools .
+- Member of Designing and Promotion team of the literary Society Taxila.
+- Bass Guitarist in the college band named The Alchemists .
+- Creative team head in the college fest .
+- Founder of The Photoholics – Photography and Filming Club R.K.G.I.T.
+- Winner of Movie Making Competition organized in the College Fest and received a Cash Prize of Rs. 5000 by the
+  Chairman of R.K.G.I.T.
+- First Prize in the Picasso Photography Competition at Institute of Technology and Sciences (I.T.S.) Ghaziabad and
+  awarded a cash prize of Rs. 2000 for the same .
